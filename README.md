@@ -59,7 +59,7 @@
 <p align="center">
  <a href="mailto:chiranjibeepadhi4@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/chiranjibee461"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="Github"></a> &nbsp; &nbsp;
-  <a href="https://in.linkedin.com/in/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://in.linkedin.com/in/https://www.linkedin.com/in/chiranjibee-padhi"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 </p>
 
